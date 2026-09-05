@@ -6,6 +6,15 @@
 
 ---
 
+## 🤗 Try it / Hosted on Hugging Face
+
+[![Hugging Face Space](https://img.shields.io/badge/🤗%20Space-Aqi--Predictor--Demo-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/Ganesh-Nadkarni/Aqi-Predictor-Demo)
+[![Hugging Face Model](https://img.shields.io/badge/🤗%20Model-aqi--eco--nav--models-FFD21E?style=for-the-badge)](https://huggingface.co/Ganesh-Nadkarni/aqi-eco-nav-models)
+
+Try the live AQI predictor in your browser (no setup needed), or grab the trained model weights directly from the model repo.
+
+---
+
 ## 📸 Features
 
 | Feature | Details |
